@@ -30,7 +30,7 @@
 ---------------------------------------
 
 ```
-pip install -U git+https://github.com/dropout1337/Discord-iOS/
+pip install -U git+https://github.com/kzxyo/Discord-iOS.git
 ```
 
 ```py
